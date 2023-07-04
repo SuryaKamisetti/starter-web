@@ -3,3 +3,4 @@ Totally different file
 This is line 2
 
 Line in First_Parent Branch
+Line in First_child
