@@ -1,7 +1,11 @@
 Totally different file
 
 This is line 2
+<<<<<<< Updated upstream
 
 Line in First_Parent Branch
 Line in First_child
 	One more line in First_child
+=======
+I don't know which line this is
+>>>>>>> Stashed changes
